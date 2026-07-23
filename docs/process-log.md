@@ -78,60 +78,10 @@ The previous Codex workspace context was lost during the Codex app migration. Th
 - 双语冲突时以英文执行文本为准，除非作者明确决定例外。
 - 未来范围变化必须同步更新两种语言，并记录在本日志中。
 
-### Information Still Needed / 仍需补充的信息
-
-**English**
-
-- Exact target programmes and their portfolio constraints.
-- A verified inventory of original final work and process material for each project.
-- Publication permission and confidentiality boundaries for commercial work.
-- Current readiness and missing production tasks for each of the four projects.
-- Preferred public identity, biography, résumé, contact route, and social links.
-- Preferred project order and home-page lead project.
-- Bilingual switching and URL behavior.
-- An approved visual direction and interaction priority.
-- Media and technical constraints, including Live2D, video, sound, hosting, domain, privacy, and future updates.
-
-**中文**
-
-- 具体目标专业及其作品集格式限制。
-- 每个项目已有原创成果与过程材料的核实清单。
-- 商业项目的公开授权与保密边界。
-- 四个项目目前的完成度与仍需制作的内容。
-- 对外姓名、简介、简历、联系渠道与社交链接。
-- 项目顺序与首页主推项目。
-- 双语切换和网址结构。
-- 获得确认的视觉方向与互动优先级。
-- Live2D、视频、声音、托管、域名、隐私和后续更新等媒体与技术限制。
-
-### Recommended Next Steps Before Coding / 编码前建议步骤
-
-**English**
-
-1. Build a project-by-project content inventory with file locations, ownership, permissions, and quality notes.
-2. Select exact target programmes and record their portfolio requirements.
-3. Identify content gaps and make a production plan for each main project.
-4. Draft concise bilingual case-study copy using the standard narrative structure.
-5. Decide the default language and bilingual navigation model.
-6. Compare a small number of visual directions in Figma and approve one direction.
-7. Create wireframes for Home, Projects, one representative case study, About, Contact, and 404.
-8. Review the acceptance criteria in the requirements document before authorizing implementation.
-
-**中文**
-
-1. 按项目建立素材清单，记录文件位置、版权归属、公开许可与质量备注。
-2. 确定申请专业，并记录各自的作品集要求。
-3. 找出内容缺口，为每个主项目制定补拍、补做或补记录计划。
-4. 按统一案例结构起草简洁的双语项目文案。
-5. 决定默认语言与双语导航方式。
-6. 在 Figma 中比较少量视觉方向并确认一个方案。
-7. 为首页、项目索引、一个代表性案例、关于、联系与 404 制作线框。
-8. 在授权开发前，逐项检查需求文档中的验收标准。
-
 ### Recommended Immediate Next Step / 建议立即进行的下一步
 
-**English:** Create a bilingual content inventory for the four main projects before making interface decisions. The inventory should separate existing final work, existing process evidence, missing content, permissions, and desired presentation media.
-**中文：** 在决定界面之前，先为四个主项目建立双语素材清单，分别列出已有最终成果、已有过程证据、缺失内容、公开权限与希望使用的展示媒介。
+**English:** Create a bilingual content inventory for the main projects before making interface decisions. The inventory should separate existing final work, existing process evidence, missing content, permissions, and desired presentation media.
+**中文：** 在决定界面之前，先为主要项目建立双语素材清单，分别列出已有最终成果、已有过程证据、缺失内容、公开权限与希望使用的展示媒介。
 
 ---
 
@@ -152,7 +102,7 @@ A creator profile derived from analysis of previous artworks and personal statem
 **English**
 
 - The creator is positioned as an observational, analytical, and world-building-oriented interdisciplinary artist.
-- The recurring creative progression is: recognizable reality → subtle anomaly → hidden mechanism → emotional or conceptual realization → unresolved afterimage.
+- The recurring creative progression is: recognizable reality -> subtle anomaly -> hidden mechanism -> emotional or conceptual realization -> unresolved afterimage.
 - Eight recurring themes were recorded, including memory as reconstruction, spatial psychology, control versus vitality, natural versus technological time, observer distance, and alternative-world construction.
 - Photography, drawing, digital collage and glitch, 3D, animation, and interaction were assigned distinct conceptual roles.
 - An eight-step creative methodology was documented for selecting truthful process evidence.
@@ -162,7 +112,7 @@ A creator profile derived from analysis of previous artworks and personal statem
 **中文**
 
 - 创作者被定位为以观察、分析和世界建构为倾向的跨学科艺术家。
-- 反复出现的创作路径为：可识别现实 → 细微异常 → 隐藏机制 → 情绪或概念意识 → 未解决的余像。
+- 反复出现的创作路径为：可识别现实 -> 细微异常 -> 隐藏机制 -> 情绪或概念意识 -> 未解决的余像。
 - 记录了八组核心主题，包括作为重构材料的记忆、空间心理、控制与生命力、自然与技术时间、观察距离和另类世界建构。
 - 明确了摄影、绘画、数字拼贴与 glitch、3D、动画和互动各自的概念作用。
 - 记录了八步创作方法，用于筛选真实的过程证据。
@@ -197,3 +147,39 @@ The earlier requirements and process log were recovered from the `altheaqin/alth
 
 **English:** This update is an iteration of the existing repository documentation, not a new unrelated project. Existing source code and supporting documents remain part of the project history unless separately reviewed and intentionally changed.
 **中文：** 本次更新是对现有仓库文档的迭代，不是创建一个无关的新项目。已有源代码和辅助文档继续属于项目历史，除非经过单独审阅并明确决定修改。
+
+---
+
+## 2026-07-23 — Hero and PDF Portfolio Direction Updated / 首屏与 PDF 作品集方向更新
+
+### Summary / 总结
+
+**English**
+
+Hero direction finalized as Original Character + Dreamcore Signpost. PDF portfolio structure simplified to two major projects plus one supporting project. Website remains expandable and bilingual. The next step should be a Figma storyboard for the hero section and updated project briefs for the three PDF projects.
+
+**中文**
+
+首屏方向确定为“原创角色 + 梦核路牌”。PDF 作品集结构简化为两个主要项目 + 一个辅助项目。网站仍然保持可扩展，并支持双语。下一步应绘制首屏 Figma storyboard，并更新三个 PDF 项目的 project brief。
+
+### Decisions Added / 新增决定
+
+**English**
+
+- Selected hero direction: Original Character + Dreamcore Signpost.
+- Hero MVP should be stable, simple, and navigation-focused.
+- Advanced hero animation is a later-stage option.
+- PDF portfolio now focuses on `404 Self`, `AI-assisted Crystal / E-commerce Brand System`, and `Portrait Persona System`.
+- The website remains broader than the PDF and can continue to include the website project and future expansions.
+- The possible 12-page PDF constraint should guide content selection.
+- All final content must remain based on original work.
+
+**中文**
+
+- 首屏方向确定为“原创角色 + 梦核路牌”。
+- 首屏 MVP 应稳定、简洁，并以导航清晰为优先。
+- 复杂首屏动画属于后续进阶选项。
+- PDF 作品集现在聚焦于 `404 Self`、`AI-assisted Crystal / E-commerce Brand System` 和 `Portrait Persona System`。
+- 网站范围仍然比 PDF 更广，可以继续包含网站项目和未来扩展内容。
+- 约 12 页 PDF 限制需要指导内容筛选。
+- 所有最终内容必须继续建立在原创作品之上。
