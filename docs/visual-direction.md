@@ -1,5 +1,7 @@
 # Visual Direction Notes
 
+> **Historical reference / 历史参考:** These website scaffold notes may inform later adaptation, but the active 12-page PDF direction is defined in `docs/portfolio-requirements-v0.2.md`. / 这些网站框架笔记可供后续适配参考；当前 12 页 PDF 方向以 `docs/portfolio-requirements-v0.2.md` 为准。
+
 Working direction:
 
 - editorial

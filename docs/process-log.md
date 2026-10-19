@@ -183,3 +183,85 @@ Hero direction finalized as Original Character + Dreamcore Signpost. PDF portfol
 - 网站范围仍然比 PDF 更广，可以继续包含网站项目和未来扩展内容。
 - 约 12 页 PDF 限制需要指导内容筛选。
 - 所有最终内容必须继续建立在原创作品之上。
+
+---
+
+## 2026-10-18 — PDF-First Scope Revision / PDF 优先范围调整
+
+### Decision / 决定
+
+**English**
+
+The primary portfolio deliverable changed from a website-led project to an application-ready PDF. The current requirement is exactly 12 pages at 210 × 420 mm per page, interpreted as width × height in portrait orientation until confirmed against the application portal. Website adaptation is deferred until the PDF content and design system are approved.
+
+**中文**
+
+作品集的首要交付物从网站调整为申请用 PDF。当前要求是恰好 12 页，每页 210 × 420 mm；在与申请系统核对前，暂按宽 × 高的纵向版式理解。网站适配推迟到 PDF 内容与设计系统获得确认之后。
+
+### Fixed Pagination / 固定页码分配
+
+**English**
+
+- Page 1: portfolio title and contents.
+- Pages 2–5: Project 1, `404 Self-Portrait`.
+- Pages 6–9: Project 2, Packaging Design.
+- Pages 10–12: Project 3, Photography.
+
+**中文**
+
+- 第 1 页：作品集标题与目录。
+- 第 2–5 页：项目一 `404 Self-Portrait`。
+- 第 6–9 页：项目二包装设计。
+- 第 10–12 页：项目三摄影。
+
+### Scope Changes / 范围变化
+
+**English**
+
+- The portfolio now contains three projects instead of four main projects.
+- The interactive website is no longer a project in the 12-page submission.
+- The earlier AI-assisted e-commerce brand-system direction is narrowed or reframed as Packaging Design; its exact relationship to the real commercial work still requires confirmation.
+- The photography project occupies three pages and requires a coherent edit rather than a general gallery.
+- PDF layout, export, rendering, and technical validation now precede website development.
+- The requirements document version is advanced to v0.2 because this materially changes the deliverable, medium, pagination, and project set.
+- The active specification is renamed to `docs/portfolio-requirements-v0.2.md`; earlier website-first documents remain historical references.
+
+**中文**
+
+- 作品集从四个主项目调整为三个项目。
+- 互动作品集网站不再作为 12 页申请文件中的项目。
+- 原来的 AI 辅助电商品牌系统方向缩小或重构为包装设计；它与真实商业工作的具体关系仍需确认。
+- 摄影项目占三页，需要形成连贯选片，而不是普通图库。
+- PDF 排版、导出、渲染与技术验证优先于网站开发。
+- 由于交付物、媒介、页码和项目组合发生实质变化，需求文档版本提升为 v0.2。
+- 当前有效规范更名为 `docs/portfolio-requirements-v0.2.md`；此前以网站为主的文档仅作为历史参考。
+
+### Immediate Next Step / 立即下一步
+
+**English:** Confirm the application portal's technical PDF rules and create a page-level asset inventory for all three projects before styling the pages.
+
+**中文：** 在开始页面风格设计前，先确认申请系统的 PDF 技术规则，并为三个项目建立逐页素材清单。
+
+---
+
+## 2026-10-19 — Project 01 Layout Draft / 项目一版式初稿
+
+### Decision / 决定
+
+**English**
+
+A four-page editable draft was created for `404 Self-Portrait` in provisional A4 landscape format. The pages follow the visual system established for the photography project: warm paper tones, Georgia headings, Arial body text, restrained accent colour, thin borders, and consistent project markers.
+
+**中文**
+
+已为 `404 Self-Portrait` 建立四页可编辑初稿，暂用 A4 横版。页面延续摄影项目的视觉系统，包括暖纸色、Georgia 标题、Arial 正文、克制的强调色、细线边框与统一项目页码。
+
+### Asset Status / 素材状态
+
+**English**
+
+No verified `404 Self-Portrait` images were present in the workspace. Every image area therefore remains an explicitly named neutral placeholder. No generated, online, or unrelated images were used. Future original assets should be placed in `assets/projects/01-404-self-portrait/` using the asset map stored in that folder.
+
+**中文**
+
+工作区内没有找到可确认属于 `404 Self-Portrait` 的图片。因此所有图像区域均保留为名称明确的中性占位框，没有使用生成图片、网络图片或无关素材。后续原创素材应按照该目录中的素材清单放入 `assets/projects/01-404-self-portrait/`。

@@ -1,5 +1,7 @@
 # Asset Placement Guide
 
+> **Historical reference / 历史参考:** This folder map reflects the earlier four-project website structure. Preserve existing assets, but plan new PDF production from `docs/portfolio-requirements-v0.2.md`. / 本目录结构对应早期四项目网站。已有资产应保留，但新的 PDF 制作以 `docs/portfolio-requirements-v0.2.md` 为准。
+
 Only place your own original materials in these folders.
 
 Do not place stock images, copied designs, unlicensed assets, fake client work, or AI-generated final artwork into the final portfolio structure.

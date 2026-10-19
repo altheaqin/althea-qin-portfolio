@@ -1,5 +1,7 @@
 # Project Brief Overview / 项目简报总说明
 
+> **Historical reference / 历史参考:** This four-project website brief predates the PDF-first v0.2 scope. Use `docs/portfolio-requirements-v0.2.md` as the active specification. / 本四项目网站简报早于 PDF 优先的 v0.2 范围；当前请以 `docs/portfolio-requirements-v0.2.md` 为准。
+
 ## Purpose / 用途
 
 EN:

@@ -1,5 +1,7 @@
 # Portfolio Website Requirements Draft
 
+> **Historical reference / 历史参考:** This website-first draft is superseded by `docs/portfolio-requirements-v0.2.md`. Do not use it as the current production specification. / 本网站优先草案已由 `docs/portfolio-requirements-v0.2.md` 取代，不能作为当前制作规范。
+
 ## 1. Document Purpose
 
 This document is the first working draft of the portfolio website requirements.
